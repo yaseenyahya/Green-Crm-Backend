@@ -1,0 +1,13 @@
+{
+    "development": {
+        "REDIS_URL":"127.0.0.1:6379"
+      
+    },
+    "test": {
+        "REDIS_URL":"127.0.0.1:6379"
+    },
+    "production": {
+        "REDIS_URL":"127.0.0.1:6379"
+    }
+
+}

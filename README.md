@@ -1,4 +1,4 @@
-# GreenMarketingCRM Backend
+# GreenMarketingCRM Backend Node.js
 
 ## Overview
 
